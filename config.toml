@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://568fdc5471e20a6541000007.sailor-chipmunk-71686.netlify.com/"
+baseurl = "http://sailor-chipmunk-71686.netlify.com/"
 languageCode = "en-us"
 title = "Xebia Agile Theme"
 theme = "hugo-agency-theme"
