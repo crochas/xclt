@@ -290,6 +290,15 @@ googleAnalytics = ""
 				["fa-linkedin", "#"]
 			]
 
+		[[params.team.members]]
+			gravatar = "marc.legardeur@xebia.fr"
+			name = "Marc Legardeur"
+			position = "Coach Agile"
+			social = [
+				["fa-twitter", "#"],
+				["fa-rss", "#"],
+				["fa-linkedin", "#"]
+			]
 
 
 					# Client section
