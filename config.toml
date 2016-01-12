@@ -151,7 +151,7 @@ googleAnalytics = ""
 	[[params.team.members]]
 	gravatar = "jlrigau@xebia.fr"
 		name = "Jean-Louis Rigau"
-		position = "Coach Agile"
+		position = "Coach Devops, Expert Docker"
 		social = [
 			["fa-twitter", "#"],
 			["fa-github", "#"],
@@ -159,7 +159,7 @@ googleAnalytics = ""
 		]
 
 	[[params.team.members]]
-		gravatar = "gbohommeau@xebia.fr"
+		gravatar = "gbonhommeau@xebia.fr"
 		name = "Gwenael Bonhommeau"
 		position = "Coach Agile"
 		social = [
@@ -181,7 +181,7 @@ googleAnalytics = ""
 	[[params.team.members]]
 		gravatar = "dlemos@xebia.fr"
 		name = "Diego Lemos"
-		position = "Coach Agile"
+		position = "Coach craft"
 		social = [
 			["fa-twitter", "#"],
 			["fa-github", "#"],
@@ -210,8 +210,8 @@ googleAnalytics = ""
 			]
 
 		[[params.team.members]]
-			gravatar = "abrachetti@xebia.fr"
-			name = "Arnaud Brachetti"
+			gravatar = "abracchetti@xebia.fr"
+			name = "Arnaud Bracchetti"
 			position = "Coach Agile"
 			social = [
 				["fa-twitter", "#"],
@@ -272,7 +272,7 @@ googleAnalytics = ""
 
 		[[params.team.members]]
 			gravatar = "sguedon@xebia.fr"
-			name = "Stéphance Guédon"
+			name = "Stéphane Guédon"
 			position = "Coach Agile"
 			social = [
 				["fa-twitter", "#"],
@@ -281,8 +281,8 @@ googleAnalytics = ""
 			]
 
 		[[params.team.members]]
-			gravatar = "fcoudrier@xebia.fr"
-			name = "Fréderic Coudrier"
+			gravatar = "fcourdier@xebia.fr"
+			name = "Fréderic Courdrier"
 			position = "Coach Agile"
 			social = [
 				["fa-twitter", "#"],
